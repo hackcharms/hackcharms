@@ -14,7 +14,7 @@ Passionate about exploring technologies.
 * ⚡  I do many things -->
 
 <a href="https://www.twitter.com/ansarizubair78692" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ansarizubair78692?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/ansarizubair786?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/hackcharms" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hackcharms?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
