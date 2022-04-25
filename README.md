@@ -6,7 +6,6 @@ Full Stack Web Developer
 
 Passionate about exploring technologies.
 
-* 🌍  I'm based in India 
 * 🌍  I'm based in Lucknow, Utter Pradesh,India 
 * ✉️  You can contact me at [hackcharms@gmail.com](mailto:hackcharms@gmail.com )
 <!-- * 🚀  I'm currently working on [TestApl](http://Testapp.com)
