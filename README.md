@@ -23,7 +23,7 @@ Passionate about exploring technologies.
   <a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" width="36" height="36" alt="AAVE" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="46" height="36" alt="Mysql" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png.webp" width="46" height="36" alt="Arbitrum" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tailwindlabs/tailwindcss/raw/master/.github/logo-dark.svg" width="46" height="36" alt="Arbitrum" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hackcharms/hackcharms/1216c21d0503450e29147bc62a3c7b45eb79db05/tailwind-css.svg" width="46" height="36" alt="Arbitrum" /></a>
   <a href="httpshttps://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48487312/164893478-172b0a11-80e0-4655-8278-6b7dd426a417.png" width="46" height="36" alt="Arbitrum" /></a>
 </p>
 
