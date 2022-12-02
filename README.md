@@ -6,8 +6,9 @@ Full Stack Web Developer
 
 Passionate about exploring technologies.
 
-* 🌍  I'm based in Lucknow, Utter Pradesh,India 
-* ✉️  You can contact me at [hackcharms@gmail.com](mailto:hackcharms@gmail.com )
+* 🌍  I'm based in Mumbai,India 
+* ✉️  You can contact me at [hackcharms@gmail.com](mailto:hackcharms@gmail.com ),[zaa78692@gmail.com](mailto:zaa78692@gmail.com )
+* 🤝  I'm open to collaborating on Javascript Module or Laravel Package.
 <!-- * 🚀  I'm currently working on [TestApl](http://Testapp.com)
 * 🧠  I'm learning Newframe
 * 🤝  I'm open to collaborating on E commerce
