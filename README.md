@@ -1,18 +1,18 @@
-Hi Folks 👋 This is Zubair Ahmad (Hackcharms)
-=============================
+<!-- @format -->
 
-Full Stack Web Developer
-------------------------
+# Hi Folks 👋 This is Zubair Ahmad (Hackcharms)
+
+## Full Stack Web Developer
 
 Passionate about exploring technologies.
 
-* 🌍  I'm based in Mumbai,India 
-* ✉️  You can contact me at [hackcharms@gmail.com](mailto:hackcharms@gmail.com ),[zaa78692@gmail.com](mailto:zaa78692@gmail.com )
-* 🤝  I'm open to collaborating on Javascript Module or Laravel Package.
+- 🌍  I'm based in Mumbai,India
+- ✉️  You can contact me at [hackcharms@gmail.com](mailto:hackcharms@gmail.com),[zaa78692@gmail.com](mailto:zaa78692@gmail.com)
+- 🤝  I'm open to collaborating on Javascript Module or Laravel Package.
 <!-- * 🚀  I'm currently working on [TestApl](http://Testapp.com)
-* 🧠  I'm learning Newframe
-* 🤝  I'm open to collaborating on E commerce
-* ⚡  I do many things -->
+- 🧠  I'm learning Newframe
+- 🤝  I'm open to collaborating on E commerce
+- ⚡  I do many things -->
 
 <a href="https://www.twitter.com/ansarizubair78692" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/ansarizubair786?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/hackcharms" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/hackcharms?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -31,7 +31,18 @@ Passionate about exploring technologies.
 ### Socials
 
 <p align="left">
-  <a href="https://discord.com/users/hackcharms " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/zaa78692" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/hackcharms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ansari._.zubair.zubair " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/zubair-ahmad-678a37183" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13666655/hackcharms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ansarizubair78692" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://discord.com/users/hackcharms " target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  </a>
+   <a href="https://www.facebook.com/zaa78692" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
+   <a href="https://medium.com/@hackcharms" target="_blank" rel="noreferrer">
+   <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20viewBox%3D%220%200%201043.63%20592.71%22%20class%3D%22au%20av%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20data-name%3D%22Layer%202%22%3E%3Cg%20data-name%3D%22Layer%201%22%3E%3Cpath%20d%3D%22M588.67%20296.36c0%20163.67-131.78%20296.35-294.33%20296.35S0%20460%200%20296.36%20131.78%200%20294.34%200s294.33%20132.69%20294.33%20296.36M911.56%20296.36c0%20154.06-65.89%20279-147.17%20279s-147.17-124.94-147.17-279%2065.88-279%20147.16-279%20147.17%20124.9%20147.17%20279M1043.63%20296.36c0%20138-23.17%20249.94-51.76%20249.94s-51.75-111.91-51.75-249.94%2023.17-249.94%2051.75-249.94%2051.76%20111.9%2051.76%20249.94%22%3E%3C%2Fpath%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="32" height="32" /></a> 
+   <a href="http://www.instagram.com/ansari._.zubair.zubair " target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+   <a href="https://www.linkedin.com/in/zubair-ahmad-678a37183" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+   <a href="https://www.stackoverflow.com/users/13666655/hackcharms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
+   <a href="https://www.twitter.com/ansarizubair78692" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
@@ -41,7 +52,7 @@ Passionate about exploring technologies.
 <a href="http://www.github.com/hackcharms" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=hackcharms&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub stats" /></a>
 <a href="http://www.github.com/hackcharms" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hackcharms&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/hackcharms" target="_blank"><img src="https://activity-graph.herokuapp.com/graph?username=hackcharms&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/hackcharms" target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=hackcharms&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <b>Top Repositories</b>
 
