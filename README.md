@@ -38,9 +38,9 @@ Passionate about exploring technologies.
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
    <a href="https://medium.com/@hackcharms" target="_blank" rel="noreferrer">
    <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20viewBox%3D%220%200%201043.63%20592.71%22%20class%3D%22au%20av%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20data-name%3D%22Layer%202%22%3E%3Cg%20data-name%3D%22Layer%201%22%3E%3Cpath%20d%3D%22M588.67%20296.36c0%20163.67-131.78%20296.35-294.33%20296.35S0%20460%200%20296.36%20131.78%200%20294.34%200s294.33%20132.69%20294.33%20296.36M911.56%20296.36c0%20154.06-65.89%20279-147.17%20279s-147.17-124.94-147.17-279%2065.88-279%20147.16-279%20147.17%20124.9%20147.17%20279M1043.63%20296.36c0%20138-23.17%20249.94-51.76%20249.94s-51.75-111.91-51.75-249.94%2023.17-249.94%2051.75-249.94%2051.76%20111.9%2051.76%20249.94%22%3E%3C%2Fpath%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E" width="32" height="32" /></a> 
-   <a href="http://www.instagram.com/ansari._.zubair.zubair " target="_blank" rel="noreferrer">
+   <a href="http://www.instagram.com/ansari._.zubair " target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-   <a href="https://www.linkedin.com/in/zubair-ahmad-678a37183" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+   <a href="https://www.linkedin.com/in/zubair-ahmad-hc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
    <a href="https://www.stackoverflow.com/users/13666655/hackcharms" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
    <a href="https://www.twitter.com/ansarizubair78692" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
