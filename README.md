@@ -19,19 +19,28 @@ Passionate about exploring technologies.
 ### Skills
 
 <p align="left">
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="46" height="36" alt="Arbitrum" /></a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="46" height="36" alt="PHP" /></a>
   <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://laravel.com/img/logotype.min.svg" width="46" height="36" alt="Laravel" /></a>
-  <a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" width="36" height="36" alt="AAVE" /></a>
+  <a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" width="36" height="36" alt="Vuejs" /></a>
+  <a href="https://nuxt.com" target="_blank" rel="noreferrer"><img src="https://nuxt.com/assets/design-kit/icon-green.svg" width="36" height="36" alt="Nuxtjs" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="46" height="36" alt="Mysql" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png.webp" width="46" height="36" alt="Arbitrum" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hackcharms/hackcharms/1216c21d0503450e29147bc62a3c7b45eb79db05/tailwind-css.svg" width="46" height="36" alt="Arbitrum" /></a>
-  <a href="httpshttps://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48487312/164893478-172b0a11-80e0-4655-8278-6b7dd426a417.png" width="46" height="36" alt="Arbitrum" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png.webp" width="46" height="36" alt="docker" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hackcharms/hackcharms/1216c21d0503450e29147bc62a3c7b45eb79db05/tailwind-css.svg" width="46" height="36" alt="tailwind" /></a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48487312/164893478-172b0a11-80e0-4655-8278-6b7dd426a417.png" width="46" height="36" alt="nodejs" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=36" width="36" height="36" alt="reactjs" /></a>
 </p>
+
+### Packages
+
+<p align="left">
+  <a href="https://github.com/hackcharms/vue3-toaster" target="_blank" title="github page" rel="noreferrer">
+  <img src="https://github.com/hackcharms/vue3-toaster/blob/gh-pages/assets/Vue3-toaster-logo-color-1139e330.png?raw=true" width="40" height="40" />
+  </a>
 
 ### Socials
 
 <p align="left">
-  <a href="https://discord.com/users/hackcharms " target="_blank" rel="noreferrer">
+  <a href="https://discord.com/users/hackcharms" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
   </a>
    <a href="https://www.facebook.com/zaa78692" target="_blank" rel="noreferrer">
@@ -56,9 +65,17 @@ Passionate about exploring technologies.
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/hackcharms/AskMe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hackcharms&repo=AskMe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/hackcharms/blood-bank" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hackcharms&repo=blood-bank&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+<a href="https://github.com/hackcharms/vue3-toaster" align="left">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hackcharms&repo=vue3-toaster&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+<a href="https://github.com/hackcharms/blood-bank" align="right">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hackcharms&repo=blood-bank&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+</div>
+<br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/hackcharms/Quiz-Vue" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hackcharms&repo=Quiz-Vue&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/hackcharms/hackcharms.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hackcharms&repo=hackcharms.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/hackcharms/AskMe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hackcharms&repo=AskMe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/hackcharms/hackcharms.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hackcharms&repo=hackcharms.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br /><br />
 <a href="https://github.com/hackcharms" target="_blank" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackcharms&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
