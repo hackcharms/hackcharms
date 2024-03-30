@@ -1,39 +1,38 @@
-<!-- @format -->
+# Hi Folks 👋 This is Zubair (Hackcharms)
 
-# Hi Folks 👋 This is Zubair Ahmad (Hackcharms)
-
-## Full Stack Web Developer
+## Fullstack Web Developer ( Frontend heavy )
 
 Passionate about exploring technologies.
 
 - 🌍  I'm based in Mumbai,India
 - ✉️  You can contact me at [hackcharms@gmail.com](mailto:hackcharms@gmail.com),[zaa78692@gmail.com](mailto:zaa78692@gmail.com)
 - 🤝  I'm open to collaborating on Javascript Module or Laravel Package.
+- 🤝  I'm open to collaborating on Vuejs Ecosystem
 <!-- * 🚀  I'm currently working on [TestApl](http://Testapp.com)
 - 🧠  I'm learning Newframe
-- 🤝  I'm open to collaborating on E commerce
 - ⚡  I do many things -->
 
-<a href="https://www.twitter.com/ansarizubair78692" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/ansarizubair786?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/hackcharms" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/hackcharms?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/hackcharms" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/hackcharms?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/hackcharms" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/hackcharms?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
 <p align="left">
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="46" height="36" alt="PHP" /></a>
-  <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://laravel.com/img/logotype.min.svg" width="46" height="36" alt="Laravel" /></a>
   <a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" width="36" height="36" alt="Vuejs" /></a>
   <a href="https://nuxt.com" target="_blank" rel="noreferrer"><img src="https://nuxt.com/assets/design-kit/icon-green.svg" width="36" height="36" alt="Nuxtjs" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=36" width="36" height="36" alt="reactjs" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="46" height="36" alt="Mysql" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png.webp" width="46" height="36" alt="docker" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hackcharms/hackcharms/1216c21d0503450e29147bc62a3c7b45eb79db05/tailwind-css.svg" width="46" height="36" alt="tailwind" /></a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48487312/164893478-172b0a11-80e0-4655-8278-6b7dd426a417.png" width="46" height="36" alt="nodejs" /></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=36" width="36" height="36" alt="reactjs" /></a>
+   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="46" height="36" alt="PHP" /></a>
+  <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://laravel.com/img/logotype.min.svg" width="46" height="36" alt="Laravel" /></a>
+  
 </p>
 
 ### Packages
 
 <p align="left">
-  <a href="https://github.com/hackcharms/vue3-toaster" target="_blank" title="github page" rel="noreferrer">
+  <a href="https://hackcharms.github.io/vue3-toaster/" target="_blank" title="github page" rel="noreferrer">
   <img src="https://github.com/hackcharms/vue3-toaster/blob/gh-pages/assets/Vue3-toaster-logo-color-1139e330.png?raw=true" width="40" height="40" />
   </a>
 
